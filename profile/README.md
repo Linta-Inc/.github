@@ -9,13 +9,13 @@ Do NOT use any project from here if your device doesn't have the specified CPU.
 </p> 
 
 <p align="center">
-  <a href="https://github.com/salvogiangri/xx">🚀 Discussions</a>
+  <a href="https://github.com/lyntaxqq">🚀 Owner</a>
   •
   <a href="https://t.me/xx">💬 Telegram</a>
 </p>
 
 # Our Projects
-<a href="https://github.com/Linta-Inc/Nexusify">Nexusify</a>
+<a href="https://github.com/MTKMainline/Nexusify">Nexusify</a>
 
 
 The project Nexusify aims mid-range devices, such as Galaxy A15 4G, 5G, Galaxy A16 4G, 5G and more. 
