@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img loading="lazy" src="readme-res/banner.png"/>
+  <img loading="lazy" src="readme-res/bnnr.png"/>
 </h1>
 <p align="center">
 The organization aims MT6789/MT6768 and MT6769V devices. 
