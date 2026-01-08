@@ -9,9 +9,9 @@ Do NOT use any project from here if your device doesn't have the specified CPU.
 </p> 
 
 <p align="center">
-  <a href="https://github.com/salvogiangri/xx">🚀 Discussions</a>
+  <a href="https://github.com/lyntaxqq">🚀 Owner</a>
   •
-  <a href="https://t.me/xx">💬 Telegram</a>
+  <a href="https://t.me/xx">💬 Telegram (not accessible)</a>
 </p>
 
 # Our Projects
